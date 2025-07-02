@@ -16,11 +16,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Draw.io Desktop CLI
+      - name: Install dependencies (Draw.io Desktop CLI and Xvfb)
         run: |
-          sudo apt update
-          sudo apt install snapd
-          sudo snap install drawio
+          sudo apt-get update
+          sudo apt-get install -y xvfb libxml2-utils
+          wget -O drawio.deb https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-amd64.deb
+          sudo dpkg -i drawio.deb
 
       - name: Export Drum Set layer to DrumSet.png
         run: |
