@@ -3,7 +3,7 @@
     <mxGraphModel dx="2011" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" value="DrumSet" parent="0" />
+        <mxCell id="1" value="Drum Set" parent="0" />
         <mxCell id="rTbFsR_jO0YNZLWTXrrQ-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="425" y="192" width="860.0434850705965" height="736" as="geometry" />
         </mxCell>
