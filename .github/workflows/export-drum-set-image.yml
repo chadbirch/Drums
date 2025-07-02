@@ -19,17 +19,17 @@ jobs:
       - name: Install dependencies (Draw.io Desktop CLI and Xvfb)
         run: |
           sudo apt-get update
-          sudo apt-get install -y xvfb libxml2-utils libnotify4 libsecret-1-0
+          sudo apt-get install -y xvfb libxml2-utils libnotify4
           wget -O drawio.deb https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-amd64-27.0.9.deb
           sudo dpkg -i drawio.deb
 
       - name: Export Drum Set layer to DrumSet.png
         run: |
-          drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
+          xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Export Drum Set and Input Map layers to InputMap.png
         run: |
-          drawio --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
+          xvfb-run drawio --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Commit changes to repo
         uses: stefanzweifel/git-auto-commit-action@v6
