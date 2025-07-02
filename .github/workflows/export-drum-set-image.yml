@@ -12,6 +12,9 @@ jobs:
       DRAWIO_FILE: Diagrams/DrumSet/Drum Set.drawio
       DRUM_SET_FILE: Assets/DrumSet.drawio
       ITEM_MAP_FILE: Assets/ItemMap.drawio
+    defaults:
+      run:
+        working-directory: .
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
