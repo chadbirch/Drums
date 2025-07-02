@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="Drum Set" id="2LsYhDN4OcXlBFDVN4OC">
-    <mxGraphModel dx="2011" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Drum Set" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="175" y="108" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pJLd2radVc2z7NkSH8AQ-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;28&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;" vertex="1" parent="rTbFsR_jO0YNZLWTXrrQ-10">
-          <mxGeometry x="725" y="608" width="40" height="30" as="geometry" />
+          <mxGeometry x="730" y="608" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="slQpRl2vseobT0_AfF7_-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#6a00ff;rotation=90;fontColor=#ffffff;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1005" y="290" width="100" height="55" as="geometry" />
