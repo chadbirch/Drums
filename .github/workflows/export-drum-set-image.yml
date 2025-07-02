@@ -23,6 +23,13 @@ jobs:
           wget -O drawio.deb https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-amd64-27.0.9.deb
           sudo dpkg -i drawio.deb
 
+      - name: Check for DrumSet.drawio file
+        run: |
+          if [ ! -f "Diagrams/DrumSet/DrumSet.drawio" ]; then
+            echo "ERROR: Diagrams/DrumSet/DrumSet.drawio not found!" >&2
+            exit 1
+          fi
+
       - name: Export Drum Set layer to DrumSet.png
         run: |
           xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
@@ -39,3 +46,4 @@ jobs:
           commit_user_email: ${{ vars.COMMIT_USER_EMAIL }}
           commit_author: ${{ vars.COMMIT_AUTHOR }}
           push_options: '--force'
+          file_pattern: '**/*.png'
