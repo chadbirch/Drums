@@ -18,10 +18,9 @@ jobs:
 
       - name: Install Draw.io Desktop CLI
         run: |
-          sudo apt-get update
-          sudo apt-get install -y wget xdg-utils libgtk-3-0 libnss3 libxss1 libasound2
-          wget -O drawio.deb https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-amd64.deb
-          sudo dpkg -i drawio.deb
+          sudo apt update
+          sudo apt install snapd
+          sudo snap install drawio
 
       - name: Export Drum Set layer to DrumSet.png
         run: |
