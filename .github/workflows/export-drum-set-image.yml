@@ -1,45 +1,35 @@
-name: Export Drum Set PNG
+name: Export Drum Set Images
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'Diagrams/DrumSet/DrumSet.drawio'
 
+permissions:
+  contents: write
+
 jobs:
-  export-drum-set-png:
+  export-images:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    env:
-      DRAWIO_FILE: Diagrams/DrumSet/DrumSet.drawio
-    defaults:
-      run:
-        working-directory: .
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Install Draw.io Desktop CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget xdg-utils libgtk-3-0 libnss3 libxss1 libasound2
+          wget -O drawio.deb https://github.com/jgraph/drawio-desktop/releases/latest/download/drawio-amd64.deb
+          sudo dpkg -i drawio.deb
 
-      - name: Export Drum Set layer as PNG
-        uses: severgroup-tt/actions-drawio-cli@v0.0.2
-        with:
-          source: ${{ env.DRAWIO_FILE }}
-          destination: Assets/DrumSet.png
-          format: png
-        #   layer: Drum Set
+      - name: Export Drum Set layer to DrumSet.png
+        run: |
+          drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
 
-      - name: Export Drum Set and Item Map layers as PNG
-        uses: severgroup-tt/actions-drawio-cli@v0.0.2
-        with:
-          source: ${{ env.DRAWIO_FILE }}
-          destination: Assets/ItemMap.png
-          format: png
-        #   layer: Drum Set
-        #   layer2: Item Map
+      - name: Export Drum Set and Input Map layers to InputMap.png
+        run: |
+          drawio --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Commit changes to repo
         uses: stefanzweifel/git-auto-commit-action@v6
