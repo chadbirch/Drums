@@ -3,13 +3,13 @@ name: Export Drum Set PNG
 on:
   push:
     paths:
-      - 'Diagrams/DrumSet/Drum Set.drawio'
+      - 'Diagrams/DrumSet/DrumSet.drawio'
 
 jobs:
   export-drum-set-png:
     runs-on: ubuntu-latest
     env:
-      DRAWIO_FILE: Diagrams/DrumSet/Drum Set.drawio
+      DRAWIO_FILE: Diagrams/DrumSet/DrumSet.drawio
     defaults:
       run:
         working-directory: .
