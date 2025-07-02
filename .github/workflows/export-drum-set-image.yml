@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies (Draw.io Desktop CLI and Xvfb)
         run: |
           sudo apt-get update
-          sudo apt-get install -y xvfb libxml2-utils libnotify4
+          sudo apt-get install -y xvfb libxml2-utils libnotify4 libsecret-1-0
           wget -O drawio.deb https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-amd64-27.0.9.deb
           sudo dpkg -i drawio.deb
 
