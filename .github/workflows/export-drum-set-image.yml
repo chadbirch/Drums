@@ -8,6 +8,8 @@ on:
 jobs:
   export-drum-set-png:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       DRAWIO_FILE: Diagrams/DrumSet/DrumSet.drawio
     defaults:
@@ -40,7 +42,7 @@ jobs:
         #   layer2: Item Map
 
       - name: Commit changes to repo
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: Automatically uploaded new assets from Drum Set.drawio
           commit_user_name: ${{ vars.COMMIT_USER_NAME }}
