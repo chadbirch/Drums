@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DRAWIO_FILE: Diagrams/DrumSet/Drum Set.drawio
-      DRUM_SET_FILE: Assets/DrumSet.drawio
-      ITEM_MAP_FILE: Assets/ItemMap.drawio
     defaults:
       run:
         working-directory: .
@@ -24,23 +22,22 @@ jobs:
         with:
           node-version: '20'
 
-    #   - name: Install draw.io CLI
-    #     run: |
-    #       npm install -g drawio-cli
-
-    #   - name: Export Drum Set layer as PNG
-    #     run: |
-    #       drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/Drum Set.drawio"
-
-    #   - name: Export Drum Set and Item Map layers as PNG
-    #     run: |
-    #       drawio --export --output "Assets/ItemMap.png" --format png --layer "Drum Set" --layer "Item Map" "Diagrams/DrumSet/Drum Set.drawio"
-
-      - uses: severgroup-tt/actions-drawio-cli@v0.0.2
+      - name: Export Drum Set layer as PNG
+        uses: severgroup-tt/actions-drawio-cli@v0.0.2
         with:
           source: ${{ env.DRAWIO_FILE }}
-          destination: ${{ env.ITEM_MAP_FILE }}
+          destination: Assets/DrumSet.png
           format: png
+        #   layer: Drum Set
+
+      - name: Export Drum Set and Item Map layers as PNG
+        uses: severgroup-tt/actions-drawio-cli@v0.0.2
+        with:
+          source: ${{ env.DRAWIO_FILE }}
+          destination: Assets/ItemMap.png
+          format: png
+        #   layer: Drum Set
+        #   layer2: Item Map
 
       - name: Commit changes to repo
         uses: stefanzweifel/git-auto-commit-action@v5
