@@ -51,3 +51,16 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 
 ## Miscellaneous
 28. DW Large Drum Rug - 5.3' x 6.6'
+
+## Microphones
+1. Shure Beta 56A
+2. Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
+3. Shure Beta 98AMP/C
+4. Shure Beta 98AMP/C
+5. Shure Beta 98AMP/C
+6. Shure Beta 98AMP/C
+10. Shure Beta 56A (Vocals)
+18. Shure SM137
+21. Shure SM137
+24. Shure SM137
+
