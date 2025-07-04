@@ -30,6 +30,9 @@ jobs:
             exit 1
           fi
 
+      - name: Debug - List files in Diagrams/DrumSet
+        run: ls -lR Diagrams/DrumSet
+
       - name: Export Drum Set layer to DrumSet.png
         run: |
           xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
