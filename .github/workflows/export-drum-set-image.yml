@@ -33,13 +33,27 @@ jobs:
       - name: Debug - List files in Diagrams/DrumSet
         run: ls -lR Diagrams/DrumSet
 
+      - name: Debug - Find drawio binary
+        run: |
+          which drawio || true
+          which drawio-desktop || true
+          ls -l /opt/drawio || true
+
       - name: Export Drum Set layer to DrumSet.png
         run: |
-          xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
+          if command -v drawio-desktop > /dev/null; then
+            xvfb-run drawio-desktop --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
+          else
+            xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
+          fi
 
       - name: Export Drum Set and Input Map layers to InputMap.png
         run: |
-          xvfb-run drawio --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
+          if command -v drawio-desktop > /dev/null; then
+            xvfb-run drawio-desktop --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
+          else
+            xvfb-run drawio --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
+          fi
 
       - name: Commit changes to repo
         uses: stefanzweifel/git-auto-commit-action@v6
