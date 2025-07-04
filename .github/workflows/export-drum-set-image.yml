@@ -27,9 +27,9 @@ jobs:
         run: |
             xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layers 0 "Diagrams/DrumSet/DrumSet.drawio"
 
-      - name: Export Drum Set and Input Map layers to InputMap.png
+      - name: Export Drum Set and Item Map layers to DrumSetWithItemMap.png
         run: |
-            xvfb-run drawio --export --output "Assets/InputMap.png" --format png --layers 0,1 "Diagrams/DrumSet/DrumSet.drawio"
+            xvfb-run drawio --export --output "Assets/DrumSetWithItemMap.png" --format png --layers 0,1 "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Commit changes to repo
         uses: stefanzweifel/git-auto-commit-action@v6
