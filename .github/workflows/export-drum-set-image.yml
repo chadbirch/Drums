@@ -19,41 +19,17 @@ jobs:
       - name: Install dependencies (Draw.io Desktop CLI and Xvfb)
         run: |
           sudo apt-get update
-          sudo apt-get install -y xvfb libxml2-utils libnotify4 libsecret-1-0
+          sudo apt-get install -y xvfb libxml2-utils libnotify4 libsecret-1-0 xdg-utils
           wget -O drawio.deb https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-amd64-27.0.9.deb
           sudo dpkg -i drawio.deb
 
-      - name: Check for DrumSet.drawio file
-        run: |
-          if [ ! -f "Diagrams/DrumSet/DrumSet.drawio" ]; then
-            echo "ERROR: Diagrams/DrumSet/DrumSet.drawio not found!" >&2
-            exit 1
-          fi
-
-      - name: Debug - List files in Diagrams/DrumSet
-        run: ls -lR Diagrams/DrumSet
-
-      - name: Debug - Find drawio binary
-        run: |
-          which drawio || true
-          which drawio-desktop || true
-          ls -l /opt/drawio || true
-
       - name: Export Drum Set layer to DrumSet.png
         run: |
-          if command -v drawio-desktop > /dev/null; then
-            xvfb-run drawio-desktop --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
-          else
-            xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layer "Drum Set" "Diagrams/DrumSet/DrumSet.drawio"
-          fi
+            xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layers 0 "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Export Drum Set and Input Map layers to InputMap.png
         run: |
-          if command -v drawio-desktop > /dev/null; then
-            xvfb-run drawio-desktop --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
-          else
-            xvfb-run drawio --export --output "Assets/InputMap.png" --format png --layer "Drum Set" --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
-          fi
+            xvfb-run drawio --export --output "Assets/InputMap.png" --format png --layers 0,1 --layer "Input Map" "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Commit changes to repo
         uses: stefanzweifel/git-auto-commit-action@v6
