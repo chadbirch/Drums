@@ -64,3 +64,11 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 21. Shure SM137
 24. Shure SM137
 
+## Tuning
+
+1. Snare: 
+2. Bass: D1 (36hz)
+3. Tom 1: D3 (146hz) 
+4. Tom 2: B2 (123hz) 
+5. Tom 3: G2 (98hz) 
+6. Tom 4: D2 (73hz) 
