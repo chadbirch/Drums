@@ -24,9 +24,11 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 9. Pearl Icon Drum Rack
 
 ## Drum Throne
+
 10. Tama 1st Chair Ergo-Rider Trio
 
 ## Percussion
+
 11. LP Guiro Jam Block (Purple)
 12. LP 35th Anniversary High Jam Block (Black)
 13. LP Medium Jam Block (Red)
@@ -35,6 +37,7 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 16. LP Cyclops Mounted Tambourine (Steel)
 
 ## Cymbals
+
 17. Zildjian 11" Oriental Trash Splash
 18. Zildjian 13" Mastersound Hi-Hats
     1. Zildjian 13" A Custom Mastersound Bottom Hi-Hat (Top)
@@ -49,23 +52,20 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 26. Wuhan 18" China Cymbal
 27. Zildjian 9.5" Large Zil Bel
 
-## Miscellaneous
+## Miscellaneou
 28. DW Large Drum Rug - 5.3' x 6.6'
 
 ## Microphones
+
 1. Shure Beta 56A
 2. Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
 3. Shure Beta 98AMP/C
 4. Shure Beta 98AMP/C
 5. Shure Beta 98AMP/C
 6. Shure Beta 98AMP/C
-
 10. Shure Beta 56A (Vocals)
-
 18. Shure SM137
-
 21. Shure SM137
-
 24. Shure SM137
 
 ## Tuning
