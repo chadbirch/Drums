@@ -59,9 +59,13 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 4. Shure Beta 98AMP/C
 5. Shure Beta 98AMP/C
 6. Shure Beta 98AMP/C
+
 10. Shure Beta 56A (Vocals)
+
 18. Shure SM137
+
 21. Shure SM137
+
 24. Shure SM137
 
 ## Tuning
