@@ -2,7 +2,7 @@
 
 Ever since I was a kid, I loved seeing the drum configurations of my favorite drummers. I would find them online or in Modern Drummer magazine and meticulously scrutinize every piece. Many years later, I decided to make my own.
 
-This is a pretty simple design, but it really is reminiscent of the diagrams from my youth. I made the drum diagram using [draw.io (diagrams.net)](https://www.drawio.com/). I used basic shapes (squares, circles, lines, etc.). I kept the ratios by multiplying the inches of the item by 10 and using that as a pixel count. So a 20" cymbal would be 200 px. The design is composed of two layers. The first is the drum set design. The second is the numbers for each item.
+This is a pretty simple design, but it really is reminiscent of the diagrams from my youth. I made the drum diagram using [draw.io (diagrams.net)](https://www.drawio.com/). I used basic shapes (squares, circles, lines, etc.) to represent the drums, cymbals, hardware, etc. I kept the ratios by multiplying the inches of the item by 10 and using that as a pixel count. So a 20" cymbal would be 200 px. The design is composed of two layers. The first is the drum set design. The second is the numbers for each item.
 
 # My Drum Set
 
@@ -17,16 +17,16 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
    2. Tuning: D1 (36hz)
 3. Yamaha Birch Custom Absolute Nouveau 10" x 8" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: D3 (146hz) 
+   2. Tuning: D3 (146hz)
 4. Yamaha Birch Custom Absolute Nouveau 12" x 9" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: B2 (123hz) 
+   2. Tuning: B2 (123hz)
 5. Yamaha Birch Custom Absolute Nouveau 14" x 12" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: G2 (98hz) 
+   2. Tuning: G2 (98hz)
 6. Yamaha Birch Custom Absolute Nouveau 16" x 14" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: D2 (73hz) 
+   2. Tuning: D2 (73hz)
 
 ## Pedals
 
