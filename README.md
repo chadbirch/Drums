@@ -11,22 +11,22 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 ## Drums
 
 1. DW 14" x 6.5" Copper Snare
-  1. Microphone: Shure Beta 56A
+   1. Microphone: Shure Beta 56A
 2. Yamaha Birch Custom Absolute Nouveau 22" x 18" Bass Drum
-  1. Microphone: Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
-  2. Tuning: D1 (36hz)
+   1. Microphone: Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
+   2. Tuning: D1 (36hz)
 3. Yamaha Birch Custom Absolute Nouveau 10" x 8" Rack Tom
-  1. Microphone: Shure Beta 98AMP/C
-  2. Tuning: D3 (146hz) 
+   1. Microphone: Shure Beta 98AMP/C
+   2. Tuning: D3 (146hz) 
 4. Yamaha Birch Custom Absolute Nouveau 12" x 9" Rack Tom
-  1. Microphone: Shure Beta 98AMP/C
-  2. Tuning: B2 (123hz) 
+   1. Microphone: Shure Beta 98AMP/C
+   2. Tuning: B2 (123hz) 
 5. Yamaha Birch Custom Absolute Nouveau 14" x 12" Rack Tom
-  1. Microphone: Shure Beta 98AMP/C
-  2. Tuning: G2 (98hz) 
+   1. Microphone: Shure Beta 98AMP/C
+   2. Tuning: G2 (98hz) 
 6. Yamaha Birch Custom Absolute Nouveau 16" x 14" Rack Tom
-  1. Microphone: Shure Beta 98AMP/C
-  2. Tuning: D2 (73hz) 
+   1. Microphone: Shure Beta 98AMP/C
+   2. Tuning: D2 (73hz) 
 
 ## Pedals
 
