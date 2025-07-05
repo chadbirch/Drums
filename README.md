@@ -2,7 +2,7 @@
 
 Ever since I was a kid, I loved seeing the drum configurations of my favorite drummers. I would find them online or in Modern Drummer magazine and meticulously scrutinize every piece. Many years later, I decided to make my own.
 
-This is a pretty simple design, but it really is reminiscent of the diagrams from my youth. I made the drum diagram using draw.io (diagrams.net). I used basic shapes (squares, circles, lines, etc.). I kept the ratios by multiplying the inches of the item by 10 and using that as a pixel count. So a 20" cymbal would be 200 px. The design is composed of two layers. The first is the drum set design. The second is the numbers for each item.
+This is a pretty simple design, but it really is reminiscent of the diagrams from my youth. I made the drum diagram using [draw.io (diagrams.net)](https://www.drawio.com/). I used basic shapes (squares, circles, lines, etc.). I kept the ratios by multiplying the inches of the item by 10 and using that as a pixel count. So a 20" cymbal would be 200 px. The design is composed of two layers. The first is the drum set design. The second is the numbers for each item.
 
 # My Drum Set
 
