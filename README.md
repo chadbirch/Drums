@@ -17,10 +17,10 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
    2. Tuning: D1 (36hz)
 3. Yamaha Birch Custom Absolute Nouveau 10" x 8" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: D3 (146hz)
+   2. Tuning: D3 (147hz)
 4. Yamaha Birch Custom Absolute Nouveau 12" x 9" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: B2 (123hz)
+   2. Tuning: B2 (124hz)
 5. Yamaha Birch Custom Absolute Nouveau 14" x 12" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
    2. Tuning: G2 (98hz)
