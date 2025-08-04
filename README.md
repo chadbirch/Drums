@@ -11,35 +11,35 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 ## Drums
 
 1. DW 14" x 6.5" Copper Snare
-   1. Microphone: Shure Beta 56A
-   2. Tuning: F3 (175hz)
-   3. Top Head: Remo Emporer X Coated
-   4. Bottom Head: Remo Ambassador Hazy
+   1. **Microphone**: Shure Beta 56A
+   2. **Tuning**: F3 (175hz)
+   3. **Top Head**: Remo Emporer X Coated
+   4. **Bottom Head**: Remo Ambassador Hazy
 2. Yamaha Birch Custom Absolute Nouveau 22" x 18" Bass Drum
-   1. Microphone: Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
-   2. Tuning: D1 (36hz)
-   3. Front Head: Remo Powerstroke P3 Black (w/ Logo)
-   4. Bottom Head: Remo Powerstroke P3 Clear 
+   1. **Microphone**: Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
+   2. **Tuning**: D1 (36hz)
+   3. **Front Head**: Remo Powerstroke P3 Black (w/ Logo)
+   4. **Bottom Head**: Remo Powerstroke P3 Clear 
 3. Yamaha Birch Custom Absolute Nouveau 10" x 8" Rack Tom
-   1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: D3 (147hz)
-   3. Top Head: Remo Pinstripe Clear
-   4. Bottom Head: Remo Ambassador Clear
+   1. **Microphone**: Shure Beta 98AMP/C
+   2. **Tuning**: D3 (147hz)
+   3. **Top Head**: Remo Pinstripe Clear
+   4. **Bottom Head**: Remo Ambassador Clear
 4. Yamaha Birch Custom Absolute Nouveau 12" x 9" Rack Tom
-   1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: B2 (124hz)
-   3. Top Head: Remo Pinstripe Clear
-   4. Bottom Head: Remo Ambassador Clear
+   1. **Microphone**: Shure Beta 98AMP/C
+   2. **Tuning**: B2 (124hz)
+   3. **Top Head**: Remo Pinstripe Clear
+   4. **Bottom Head**: Remo Ambassador Clear
 5. Yamaha Birch Custom Absolute Nouveau 14" x 12" Rack Tom
-   1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: G2 (98hz)
-   3. Top Head: Remo Pinstripe Clear
-   4. Bottom Head: Remo Ambassador Clear
+   1. **Microphone**: Shure Beta 98AMP/C
+   2. **Tuning**: G2 (98hz)
+   3. **Top Head**: Remo Pinstripe Clear
+   4. **Bottom Head**: Remo Ambassador Clear
 6. Yamaha Birch Custom Absolute Nouveau 16" x 14" Rack Tom
-   1. Microphone: Shure Beta 98AMP/C
-   2. Tuning: D2 (73hz)
-   3. Top Head: Remo Pinstripe Clear
-   4. Bottom Head: Remo Ambassador Clear
+   1. **Microphone**: Shure Beta 98AMP/C
+   2. **Tuning**: D2 (73hz)
+   3. **Top Head**: Remo Pinstripe Clear
+   4. **Bottom Head**: Remo Ambassador Clear
 
 ## Pedals
 
@@ -64,17 +64,17 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 
 17. Zildjian 11" Oriental Trash Splash
 18. Zildjian 13" Mastersound Hi-Hats
-    1. Top: Zildjian 13" A Custom Mastersound Bottom Hi-Hat
-    2. Bottom: Zildjian 13" K Custom Mastersound Bottom  Hi-Hat
-    3. Microphone: Shure SM137
+    1. **Top**: Zildjian 13" A Custom Mastersound Bottom Hi-Hat
+    2. **Bottom**: Zildjian 13" K Custom Mastersound Bottom  Hi-Hat
+    3. **Microphone**: Shure SM137
 19. Zildjian 6" Small Zil Bel (Piggybacked on tambourine)
 20. Zildjian 17" K Sweet Crash
 21. Zildjian 17" A Custom Projection Crash
-    1. Microphone: Shure SM137
+    1. **Microphone**: Shure SM137
 22. Zildjian 10" A Custom Splash
 23. Zildjian 20" K Custom Dark Ride
 24. Zildjian 18" A Zildjian Heavy Crash
-    1. Microphone: Shure SM137
+    1. **Microphone**: Shure SM137
 25. Zildjian 16" A Custom Fast Crash
 26. Wuhan 18" China Cymbal
 27. Zildjian 9.5" Large Zil Bel
@@ -84,7 +84,7 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 
 ## Vocal Microphone
 
-Shure Beta 56A mounted on an Ultimate Support MC-125 Studio Microphone Boom Stand
+* Shure Beta 56A mounted on an Ultimate Support MC-125 Studio Microphone Boom Stand
 
 ## Other Hardware
    * DW Cymbal Stands
