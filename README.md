@@ -36,7 +36,7 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 
 ## Drum Throne
 
-10. Tama 1st Chair Ergo-Rider Trio
+10. DW Tractor Style Airlift Drum Throne w/ Backrest
 
 ## Percussion
 
