@@ -79,14 +79,14 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 26. Wuhan 18" China Cymbal
 27. Zildjian 9.5" Large Zil Bel
 
-## Miscellaneou
+## Miscellaneous
 28. DW Large Drum Rug - 5.3' x 6.6'
 
 ## Vocal Microphone
 
 Shure Beta 56A mounted on an Ultimate Support MC-125 Studio Microphone Boom Stand
 
-## Hardware
+## Other Hardware
    * DW Cymbal Stands
    * Pearl Cymbal Stands
    * Yamaha Cymbal Stands
