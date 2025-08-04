@@ -13,21 +13,33 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 1. DW 14" x 6.5" Copper Snare
    1. Microphone: Shure Beta 56A
    2. Tuning: F3 (175hz)
+   3. Top Head: Remo Emporer X Coated
+   4. Bottom Head: Remo Ambassador Hazy
 2. Yamaha Birch Custom Absolute Nouveau 22" x 18" Bass Drum
    1. Microphone: Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
    2. Tuning: D1 (36hz)
+   3. Front Head: Remo Powerstroke P3 Black (w/ Logo)
+   4. Bottom Head: Remo Powerstroke P3 Clear 
 3. Yamaha Birch Custom Absolute Nouveau 10" x 8" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
    2. Tuning: D3 (147hz)
+   3. Top Head: Remo Pinstripe Clear
+   4. Bottom Head: Remo Ambassador Clear
 4. Yamaha Birch Custom Absolute Nouveau 12" x 9" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
    2. Tuning: B2 (124hz)
+   3. Top Head: Remo Pinstripe Clear
+   4. Bottom Head: Remo Ambassador Clear
 5. Yamaha Birch Custom Absolute Nouveau 14" x 12" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
    2. Tuning: G2 (98hz)
+   3. Top Head: Remo Pinstripe Clear
+   4. Bottom Head: Remo Ambassador Clear
 6. Yamaha Birch Custom Absolute Nouveau 16" x 14" Rack Tom
    1. Microphone: Shure Beta 98AMP/C
    2. Tuning: D2 (73hz)
+   3. Top Head: Remo Pinstripe Clear
+   4. Bottom Head: Remo Ambassador Clear
 
 ## Pedals
 
@@ -73,3 +85,12 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 ## Vocal Microphone
 
 Shure Beta 56A mounted on an Ultimate Support MC-125 Studio Microphone Boom Stand
+
+## Hardware
+   * DW Cymbal Stands
+   * Pearl Cymbal Stands
+   * Yamaha Cymbal Stands
+   * LP Mini Everything Rack
+   * LP L-Clamps
+   * Cymbal Resonance System
+   * Kelly Shu Internal Shockmount Kit
