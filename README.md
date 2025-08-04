@@ -12,6 +12,7 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 
 1. DW 14" x 6.5" Copper Snare
    1. Microphone: Shure Beta 56A
+   2. Tuning: F3 (175hz)
 2. Yamaha Birch Custom Absolute Nouveau 22" x 18" Bass Drum
    1. Microphone: Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
    2. Tuning: D1 (36hz)
