@@ -97,3 +97,4 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
    * LP L-Clamps
    * Cymbal Resonance System
    * Kelly Shu Internal Shockmount Kit
+   * Ultimate Support MC-125 Studio Microphone Boom Stand
