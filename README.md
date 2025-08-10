@@ -19,7 +19,7 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
    1. **Microphone**: Shure Beta 52A (Suspended inside drum using Kelly SHU Microphone Mounting System)
    2. **Tuning**: D1 (36hz)
    3. **Front Head**: Remo Powerstroke P3 Black (w/ Logo)
-   4. **Bottom Head**: Remo Powerstroke P3 Clear 
+   4. **Bottom Head**: Remo Powerstroke P3 Clear
 3. Yamaha Birch Custom Absolute Nouveau 10" x 8" Rack Tom
    1. **Microphone**: Shure Beta 98AMP/C
    2. **Tuning**: D3 (147hz)
@@ -77,10 +77,13 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
     1. **Microphone**: Shure SM137
 25. Zildjian 16" A Custom Fast Crash
 26. Wuhan 18" China Cymbal
-27. Zildjian 9.5" Large Zil Bel
+27. *Piggybacked*: Zildjian 9.5" Large Zil Bel
 
 ## Miscellaneous
+
 28. DW Large Drum Rug - 5.3' x 6.6'
+29. Hercules HA103 Music Stand Tray
+30. Hercules DG307B Phone/Tablet Holder
 
 ## Vocal Microphone
 
