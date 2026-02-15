@@ -59,31 +59,32 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 14. LP 8" Rock Ridge Rider Cowbell
 15. LP 8" Ridge Rider Cowbell
 16. LP Cyclops Mounted Tambourine (Steel)
+17. Treeworks Tre630 Concert Chime with Damper
 
 ## Cymbals
 
-17. Zildjian 11" Oriental Trash Splash
-18. Zildjian 13" Mastersound Hi-Hats
+18. Zildjian 11" Oriental Trash Splash
+19. Zildjian 13" Mastersound Hi-Hats
     1. **Top**: Zildjian 13" A Custom Mastersound Bottom Hi-Hat
     2. **Bottom**: Zildjian 13" K Custom Mastersound Bottom  Hi-Hat
     3. **Microphone**: Shure SM137
-19. Zildjian 6" Small Zil Bel (Piggybacked on tambourine)
-20. Zildjian 17" K Sweet Crash
-21. Zildjian 17" A Custom Projection Crash
+20. Zildjian 6" Small Zil Bel (Piggybacked on tambourine)
+21. Zildjian 17" K Sweet Crash
+22. Zildjian 17" A Custom Projection Crash
     1. **Microphone**: Shure SM137
-22. Zildjian 10" A Custom Splash
-23. Zildjian 20" K Custom Dark Ride
-24. Zildjian 18" A Zildjian Heavy Crash
+23. Zildjian 10" A Custom Splash
+24. Zildjian 20" K Custom Dark Ride
+25. Zildjian 18" A Zildjian Heavy Crash
     1. **Microphone**: Shure SM137
-25. Zildjian 16" A Custom Fast Crash
-26. Wuhan 18" China Cymbal
-27. *Piggybacked*: Zildjian 9.5" Large Zil Bel
+26. Zildjian 16" A Custom Fast Crash
+27. Wuhan 18" China Cymbal
+28. *Piggybacked*: Zildjian 9.5" Large Zil Bel
 
 ## Miscellaneous
 
-28. DW Large Drum Rug - 5.3' x 6.6'
-29. Hercules HA103 Music Stand Tray
-30. Hercules DG307B Phone/Tablet Holder
+29. DW Large Drum Rug - 5.3' x 6.6'
+30. Hercules HA103 Music Stand Tray
+31. Hercules DG307B Phone/Tablet Holder
 
 ## Vocal Microphone
 
