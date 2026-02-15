@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - 'Diagrams/DrumSet/DrumSet.drawio'
+      - '.github/workflows/export-drum-set-image.yml'
 
 permissions:
   contents: write
