@@ -11,7 +11,8 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 ## Drums
 
 1. DW 14" x 6.5" Copper Snare
-   1. **Microphone**: Shure Beta 56A
+   1. **Microphone (Top)**: Shure Beta 56A
+   1. **Microphone (Bottom)**: Shure SM57
    2. **Tuning**: F3 (175hz)
    3. **Top Head**: Remo Emporer X Coated
    4. **Bottom Head**: Remo Ambassador Hazy
