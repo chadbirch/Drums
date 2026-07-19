@@ -77,8 +77,8 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 24. Zildjian 20" K Custom Dark Ride
 25. Zildjian 18" A Zildjian Heavy Crash
     1. **Microphone**: Shure SM137
-26. Zildjian 16" A Custom Fast Crash
-27. Wuhan 18" China Cymbal
+26. Wuhan 18" China Cymbal
+27. Zildjian 16" A Custom Fast Crash
 28. *Piggybacked*: Zildjian 9.5" Large Zil Bel
 
 ## Miscellaneous
