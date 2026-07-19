@@ -26,7 +26,7 @@ jobs:
 
       - name: Export Drum Set layer to DrumSet.png
         run: |
-            xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layers 0,1,2,3,4,5 "Diagrams/DrumSet/DrumSet.drawio"
+            xvfb-run drawio --export --output "Assets/DrumSet.png" --format png --layers 0,1,2,3,4 "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Export Drum Set and Item Map layers to DrumSetWithItemMap.png
         run: |
