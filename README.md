@@ -73,11 +73,9 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 20. Zildjian 6" Small Zil Bel (Piggybacked on tambourine)
 21. Zildjian 17" K Sweet Crash
 22. Zildjian 17" A Custom Projection Crash
-    1. **Microphone**: Shure SM137
 23. Zildjian 10" A Custom Splash
 24. Zildjian 20" K Custom Dark Ride
 25. Zildjian 18" A Zildjian Heavy Crash
-    1. **Microphone**: Shure SM137
 26. Wuhan 18" China Cymbal
 27. Zildjian 16" A Custom Fast Crash
 28. *Piggybacked*: Zildjian 9.5" Large Zil Bel
