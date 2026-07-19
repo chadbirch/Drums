@@ -83,7 +83,7 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 
 ## Miscellaneous
 
-29. DW Large Drum Rug - 5.3' x 6.6'
+29. KickBlock Deluxe Drum Rug - 5'3" x 6'6"
 30. Hercules HA103 Music Stand Tray
 31. Hercules DG307B Phone/Tablet Holder
 
