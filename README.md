@@ -62,13 +62,14 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 16. LP Cyclops Mounted Tambourine (Steel)
 17. Treeworks Tre630 Concert Chime with Damper
 
+**Microphone**: Shure SM137
+
 ## Cymbals
 
 18. Zildjian 11" Oriental Trash Splash
 19. Zildjian 13" Mastersound Hi-Hats
     1. **Top**: Zildjian 13" A Custom Mastersound Bottom Hi-Hat
     2. **Bottom**: Zildjian 13" K Custom Mastersound Bottom  Hi-Hat
-    3. **Microphone**: Shure SM137
 20. Zildjian 6" Small Zil Bel (Piggybacked on tambourine)
 21. Zildjian 17" K Sweet Crash
 22. Zildjian 17" A Custom Projection Crash
@@ -86,6 +87,12 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 29. KickBlock Deluxe Drum Rug - 5'3" x 6'6"
 30. Hercules HA103 Music Stand Tray
 31. Hercules DG307B Phone/Tablet Holder
+
+## Overhead/Auxiliary Microphones
+
+32. Overhead Right (Ride Side): Shure SM137
+33. Overhead Left (Hi-Hat Side):Shure SM137
+34. Auxiliary: Shure SM137
 
 ## Vocal Microphone
 
