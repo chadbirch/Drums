@@ -66,31 +66,30 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
 
 ## Cymbals
 
-18. Zildjian 11" Oriental Trash Splash
+18. Zildjian 10" A Custom Splash
 19. Zildjian 13" Mastersound Hi-Hats
     1. **Top**: Zildjian 13" A Custom Mastersound Bottom Hi-Hat
     2. **Bottom**: Zildjian 13" K Custom Mastersound Bottom  Hi-Hat
 20. Zildjian 6" Small Zil Bel (Piggybacked on tambourine)
 21. Zildjian 17" K Sweet Crash
 22. Zildjian 17" A Custom Projection Crash
-23. Zildjian 10" A Custom Splash
-24. Zildjian 20" K Custom Dark Ride
-25. Zildjian 18" A Zildjian Heavy Crash
-26. Wuhan 18" China Cymbal
-27. Zildjian 16" A Custom Fast Crash
-28. *Piggybacked*: Zildjian 9.5" Large Zil Bel
+23. Zildjian 20" K Custom Dark Ride
+24. Zildjian 18" A Zildjian Heavy Crash
+25. Wuhan 18" China Cymbal
+26. Zildjian 16" A Custom Fast Crash
+27. Zildjian 9.5" Large Zil Bel
 
 ## Miscellaneous
 
-29. KickBlock Deluxe Drum Rug - 5'3" x 6'6"
-30. Hercules HA103 Music Stand Tray
-31. Hercules DG307B Phone/Tablet Holder
+28. KickBlock Deluxe Drum Rug - 5'3" x 6'6"
+29. Hercules HA103 Music Stand Tray
+30. Hercules DG307B Phone/Tablet Holder
 
 ## Overhead/Auxiliary Microphones
 
-32. Overhead Right (Ride Side): Shure SM137
-33. Overhead Left (Hi-Hat Side):Shure SM137
-34. Auxiliary: Shure SM137
+31. Overhead Right (Ride Side): Shure SM137
+32. Overhead Left (Hi-Hat Side):Shure SM137
+33. Auxiliary: Shure SM137
 
 ## Vocal Microphone
 
@@ -105,3 +104,4 @@ This is a pretty simple design, but it really is reminiscent of the diagrams fro
    * Cymbal Resonance System
    * Kelly Shu Internal Shockmount Kit
    * Ultimate Support MC-125 Studio Microphone Boom Stand
+   * Lasko High Velocity Portable Utility Fan - 12" Tall
