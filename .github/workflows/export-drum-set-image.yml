@@ -32,9 +32,9 @@ jobs:
         run: |
             xvfb-run drawio --export --output "Assets/DrumSetWithItemMap.png" --format png "Diagrams/DrumSet/DrumSet.drawio"
 
-      - name: Export Drum Set for Stage Diagram to DrumSetForStageDiagram.png
+      - name: Export Drum Set for Stage Diagram to DrumSetWithoutCymbalsAndPercussion.png
         run: |
-            xvfb-run drawio --export --output "Assets/DrumSetForStageDiagram.png" --layers 0,1,2 --format png "Diagrams/DrumSet/DrumSet.drawio"
+            xvfb-run drawio --export --output "Assets/DrumSetWithoutCymbalsAndPercussion.png" --layers 0,1,2 --format png "Diagrams/DrumSet/DrumSet.drawio"
 
       - name: Commit changes to repo
         uses: stefanzweifel/git-auto-commit-action@v6
