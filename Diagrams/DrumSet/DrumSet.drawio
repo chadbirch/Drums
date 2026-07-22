@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="29.6.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0">
   <diagram name="Drum Set" id="2LsYhDN4OcXlBFDVN4OC">
-    <mxGraphModel dx="2020" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2008" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="rNPi1mgY9x2wueew3zSd-34" parent="0" value="Rug" />
@@ -63,7 +63,8 @@
         <mxCell id="slQpRl2vseobT0_AfF7_-15" parent="rNPi1mgY9x2wueew3zSd-4" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=3;fillColor=#B3B3B3;" value="" vertex="1">
           <mxGeometry height="130" width="70" x="375" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="slQpRl2vseobT0_AfF7_-14" parent="rNPi1mgY9x2wueew3zSd-4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
+        <mxCell id="fZVveTza3oYrp3VRwBpt-1" parent="0" value="Seat" />
+        <mxCell id="slQpRl2vseobT0_AfF7_-14" parent="fZVveTza3oYrp3VRwBpt-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="140" width="180" x="365" y="295" as="geometry" />
         </mxCell>
         <mxCell id="rNPi1mgY9x2wueew3zSd-105" parent="0" value="Stands &amp; Mounts" />
